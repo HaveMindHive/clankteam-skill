@@ -1,0 +1,9 @@
+# Pending approval
+
+Drafts waiting on a human's yes/no. Nothing in this file has been sent,
+posted, or published. ClankTeam doesn't have that capability by design.
+Run `/clankteam approve` to review and move items out of this file.
+
+Each entry: timestamp, a short label, what it's for, and the full draft.
+
+---

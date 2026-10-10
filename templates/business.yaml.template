@@ -1,0 +1,22 @@
+# ClankTeam business record: plain facts, not a visual world or a pitch deck.
+# Fill this in with the human during /clankteam init. Don't guess any of it.
+
+name: ""                 # the business's actual name
+one_line: ""              # what it does, in one honest sentence
+audience: ""               # who it's for, and what they're trying to do when they find it
+
+goals:
+  - ""                      # concrete and achievable this cycle or two, not "grow the business"
+
+voice: ""                    # tone/brand constraints, if any
+
+constraints:
+  - ""                        # anything explicitly off-limits: claims not to make, channels not to use
+
+# What ClankTeam must never claim about this business until it's actually true.
+# Keep this current, it's the first thing a worker agent should check before drafting.
+not_yet_true:
+  - "no customers yet"
+  - "no benchmark/metrics published yet"
+
+created: ""                   # date, filled in by init_business.py

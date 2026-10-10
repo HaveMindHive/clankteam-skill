@@ -1,0 +1,13 @@
+# ClankTeam report: {{DATE}}
+
+## This cycle's priority
+{{PRIORITY}}
+
+## What the Marketing agent produced
+{{WORKER_OUTPUT_SUMMARY}}
+
+## Waiting on your approval
+{{PENDING_ITEMS}}
+
+## Plan for next cycle
+{{NEXT_PLAN}}

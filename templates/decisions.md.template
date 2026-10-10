@@ -1,0 +1,11 @@
+# Decisions
+
+Append-only log. One entry per cycle (or whenever a real decision gets made
+outside a cycle). Newest entries at the bottom. This is a log, not a
+to-do list, so don't reorder or delete past entries.
+
+Each entry: date, what was decided, why, and what it was chosen over if
+that's relevant. Future cycles read this before picking a new priority, so
+write it for that reader, not just as a record.
+
+---
